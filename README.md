@@ -1,7 +1,7 @@
 # React Firebase Super Chat
 
 
-## npm install
+### npm install
 
-## npm start
+### npm start
 to run project
